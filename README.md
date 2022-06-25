@@ -12,14 +12,14 @@ Some loose thoughts about this project, once I finished.
 
 1. I have never commited my work!
 2. I am not able to access via this URL: https://oneroomer.github.io/odin-recipes
-3. 
-4. 
+3. After reading the tutorial fully (damnit!) I found out how to publish and access via URL 
+4. I have to go in the settings tab in my repo and set to "main"
 5.
 
 What are the things Ive learned in this project?
 
 1. Always commit!
 2. How to publish project on GIT with a (small) versioning
-3. 
-4.
-5. 
+3. How to access URL with my project from the web
+4. How to navigate savely in the enviroment 
+5. How to use GIT (on an early level)
