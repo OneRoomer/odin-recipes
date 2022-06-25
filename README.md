@@ -11,7 +11,7 @@ What I want to achieve with this project?
 Some loose thoughts about this project, once I finished.
 
 1. I have never commited my work!
-2. 
+2. I am not able to access via this URL: https://oneroomer.github.io/odin-recipes
 3. 
 4. 
 5.
@@ -19,7 +19,7 @@ Some loose thoughts about this project, once I finished.
 What are the things Ive learned in this project?
 
 1. Always commit!
-2. 
+2. How to publish project on GIT with a (small) versioning
 3. 
 4.
 5. 
